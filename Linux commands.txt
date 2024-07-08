@@ -1,0 +1,20 @@
+cd - change directory
+ls-list of files
+ls-ltr -list of files with details
+rm- delete folder its asking permission
+rm-rf - its not showinh permission in directly delete the folder
+touch - to create new folder
+vi- editor
+esc +;+wq! - save the files
+esc+q! -without saving quite
+pwd - present working folder
+lsblk-list of block storage
+mkdir -make directory
+chmod- command through file permission is modified
+chgrp - command through which grp can be modified
+chown - command of permission file one user to another user
+clear - clear the data
+sudo su -    =swithch user or superuser
+cat - older file to new file 
+systemctl reboot - server rebooting
+systemctl poweroff - poweroff the server
